@@ -1,7 +1,7 @@
 var ventana2 = Ti.UI.currentWindow;
 ventana2.backgroundColor = '#00000'
 var webView = Titanium.UI.createWebView({
-	url:'https://www.google.com.mx',
+	url:'http://www.upiicsa.ipn.mx/',
 	top:'30dp',
 });
 
